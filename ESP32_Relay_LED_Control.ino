@@ -4,7 +4,7 @@
 #define LED_PIN 33 // Tambahkan ini untuk LED
 
 const char* ssid = "myhome";
-const char* password = "janganlah";
+const char* password = "12345678";
 
 WiFiServer server(80);
 
